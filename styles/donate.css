@@ -1,0 +1,61 @@
+.header{
+   text-align: center;
+   background-image: url(../images/donation11.jpg);
+   background-repeat: no-repeat ;
+   background-size: cover;
+   background-position: center;
+   width: 1519px;
+   height: 786px  
+}
+.header-text{
+    font-weight: 700;
+    font-size: 65px;
+    margin: 0px 320px;
+    color: #FFFFFF;
+}
+.header-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    
+}
+.btn-primary{
+    width: 160px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+}
+.donate{
+    text-align: center;
+}
+.my-donate{
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+.donate-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    
+}
+.list-item{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 700;
+    font-size: 30px;
+    color: #707070;
+}
+.btn-style{
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    width: 131px;
+    height: 55px;
+}
+.others-money{
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+}
